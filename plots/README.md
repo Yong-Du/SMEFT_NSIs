@@ -1,10 +1,10 @@
 
 
-PDF file name convention:
+### PDF file name convention:
 
 Experiment Name + NSI current type.
 
-For example: 
+### For example: 
 
 `T2HKNC1.pdf` means constraints on dimension-6 SMEFT operators that can induce NC NSIs from the T2HK experiment.
 
