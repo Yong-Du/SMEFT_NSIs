@@ -6,3 +6,5 @@ This repository contains all plots in Appendix A (inside the `plots` folder) of 
 
 Please cite our paper [2106.XXXXX](https://arxiv.org/abs/2106.XXXXX) and include this url `https://github.com/Yong-Du/SMEFT_NSIs/` in your slides if you use any of these plots presented here.
 
+Questions? Contact `yongdu at itp.ac.cn`.
+
