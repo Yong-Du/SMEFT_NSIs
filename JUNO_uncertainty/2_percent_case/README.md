@@ -1,2 +1,2 @@
 
-2% uncertainty on the flux from the Huber-Mueller model
+2% uncertainty on reactor neutrino flux from the Huber-Mueller model
