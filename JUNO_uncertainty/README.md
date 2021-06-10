@@ -1,2 +1,2 @@
 
-Uncertainty from the Huber-Mueller model, 2% vs 6%
+Uncertainty from the Huber-Mueller model, 2% vs 5%
